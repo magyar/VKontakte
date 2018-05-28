@@ -12,7 +12,13 @@
     },
     "autoload": {
         "psr-4": {
-            "SocialiteProviders\\VKontakte\\": ""
+            "SocialiteProviders\\VKontakte\\": "dev-master"
         }
+    },
+	"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/SocialiteProviders/VKontakte.git"
     }
+]
 }
