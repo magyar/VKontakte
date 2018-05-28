@@ -12,9 +12,7 @@
         "url": "https://github.com/magyar/VKontakte"
     },
     "require": {
-        "php": "^5.6 || ^7.0",
-        "socialiteproviders/manager": "~2.0 || ~3.0",
-		"socialiteproviders/vkontakte": "dev-master"
+		"socialiteproviders/vkontakte": "master"
     },
     "autoload": {
         "psr-4": {
